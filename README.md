@@ -12,5 +12,7 @@ An automated Python script designed to block official IP ranges (ASNs) belonging
 
 Since a significant portion of automated brute-force attacks, credential stuffing, and DDoS scanning originates from rented cloud servers, this tool drastically reduces malicious background traffic.
 
-Usefull and Recommend for minecraft servers
+Usefull and Recommend for minecraft servers.
+
+Join our Discord Server for Updates, Pings and new Projects!!
 ---
