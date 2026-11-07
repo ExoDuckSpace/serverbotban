@@ -1,0 +1,3 @@
+build/* linguist-generated
+*.lock linguist-generated
+*.customlinguist language=Python
